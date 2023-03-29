@@ -1,0 +1,13 @@
+img {
+    width: 500px;
+    margin-left: 100px;
+}
+ul {
+    list-style-type: square; /* Квадратные маркеры */
+}
+a:hover {
+    color: rgb(70, 8, 243);
+}
+html {
+    background-color: rgba(182, 185, 24, 0.26);
+}
